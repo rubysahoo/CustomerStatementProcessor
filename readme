@@ -1,0 +1,6 @@
+Download the source code.
+import the project in IDE.
+The application will run on default port 8080
+make a post call from postman with requst type as json. Provide body as json type.
+It will show Status code as will as json format response.
+request body can be a json object or json array of object.
